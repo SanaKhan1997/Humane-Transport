@@ -1478,6 +1478,24 @@ a {
     display: none !important;
   }
 }
+.cid-sdJAUG9drJ {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #258a38;
+}
+.cid-sdJBHtGjev {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sdJBHtGjev .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sdJBHtGjev .mbr-section-title,
+.cid-sdJBHtGjev .mbr-section-subtitle,
+.cid-sdJBHtGjev .mbr-text {
+  text-align: center;
+}
 .cid-sdh47QVbKa {
   padding-top: 1rem;
   padding-bottom: 0rem;
