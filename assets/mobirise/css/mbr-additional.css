@@ -1138,6 +1138,25 @@ a {
 .cid-sdgnoqBVbB .social-row {
   color: #ffffff;
 }
+.cid-sezRJxiwM7 {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  background-color: #258a38;
+}
+.cid-sezRH6THnC {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sezRH6THnC .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sezRH6THnC .row {
+  flex-direction: row-reverse;
+}
+.cid-sezRH6THnC img {
+  width: 100%;
+}
 .cid-sdh5xJs34M {
   padding-top: 2rem;
   padding-bottom: 1rem;
