@@ -43,11 +43,11 @@ body {
 }
 .display-7 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -81,9 +81,9 @@ body {
     line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1514,6 +1514,27 @@ a {
 .cid-sdJBHtGjev .mbr-section-subtitle,
 .cid-sdJBHtGjev .mbr-text {
   text-align: center;
+}
+.cid-sfeZwjcJzw {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #258a38;
+}
+.cid-sfeXLv54D3 {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sfeXLv54D3 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sfeXLv54D3 .row {
+  flex-direction: row-reverse;
+}
+.cid-sfeXLv54D3 img {
+  width: 100%;
 }
 .cid-sdh47QVbKa {
   padding-top: 1rem;
